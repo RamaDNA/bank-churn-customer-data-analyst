@@ -17,7 +17,7 @@ And already segmentation with values(500,550,650,750,750+) labels ('Very Low', '
 - already test with A/B test hypothesis. H0 is rejected. so it's true
 
 
-#Recommended 
+# Recommended 
 # Customer success team
 - more monitoring definition Female gender because have more highest risk churn. And also more monitoring with
 between 500 - 650 credit score, because customer churn risk around that values.
