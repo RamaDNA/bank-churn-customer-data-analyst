@@ -6,7 +6,7 @@ Explore Data Analyst on bank customer churn to get insights and recommendations 
 ## 📊 Insight for Customer Success
 
 <p align="center">
-  <img src="docs/geography-gender.png" alt="Geography and Gender Churn Rate" width="500"><br>
+  <img src="docs/geograpy-gender.png" alt="Geography and Gender Churn Rate" width="500"><br>
   <em>Figure 1. Gender Female have the highest churn rate than Male in every country (A/B test hypothesis, H₀ rejected).</em>
 </p>
 
@@ -34,7 +34,7 @@ Credit score segmentation:
 ## 🧩 Insight for Product Team
 
 <p align="center">
-  <img src="docs/geography-num-products.png" alt="Geography and Product Number Churn" width="500"><br>
+  <img src="docs/geograpy-num-products.png" alt="Geography and Product Number Churn" width="500"><br>
   <em>Figure 3. Highest churn rate in product number 3 and 4 (90–100%) across all countries.</em>
 </p>
 
